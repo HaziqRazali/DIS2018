@@ -1,2 +1,0 @@
-week 1:
-- model vs data model ?
