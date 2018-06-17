@@ -1,7 +1,7 @@
 Theory
 1. Vector Space Retrieval - Ask p(q|k)
 2. (Done) Query Expansion Indexing 
-3. Advanced Information Retrieval - Ask append query to M
+3. (Done) Advanced Information Retrieval
 4. (Done) Link Based Ranking
 5. (Done) Frequent itemsets
 6. (Done) Clustering
@@ -9,7 +9,7 @@ Theory
 8. (Done) Classification
 9. (Done) Recommender Systems
 10. (Done) Semantic Web
-11. (Done) Entity and Information Extraction . Ask viterbi
+11. (Done) Entity and Information Extraction
 
 Practical
 1. (Done) Vector Space Retrieval
@@ -19,7 +19,7 @@ Practical
 5. (Done) Frequent itemsets
 6. (Done) Clustering
 7. (Done) Social Network Analysis
-8. Classification
+8. (DONE) Classification
 9. (Done) Recommender Systems
 10. (Done) Semantic Web
 11. (Done) Entity and Information Extraction
